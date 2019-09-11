@@ -1,0 +1,14 @@
+{
+  "name": "docx-word-count",
+  "version": "0.1.0",
+  "description": "Count words in docx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Torres",
+  "license": "MIT",
+  "dependencies": {
+    "doxtract": "^1.0.12"
+  }
+}
